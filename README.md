@@ -1,1 +1,1 @@
-# Python_chrome_arama_yapma
+# Python_chrome_arama_yapmadepoya eklenecek
